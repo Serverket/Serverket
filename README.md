@@ -24,5 +24,4 @@ I'm a Computer Engineer, supporter of Free Software, Copyleft, Open Source and S
 
 **GitHub stats:**
 
-<img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Serverket&show_icons=true&bg_color=1F2229&border_color=FFFFFF&title_color=FFFFFF&text_color=FFFFFF&icon_color=367bf0" alt="Serverket Stats" />	
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serverket&layout=compact&show_icons=true&bg_color=1F2229&border_color=FFFFFF&title_color=FFFFFF&icon_color=367bf0&text_color=FFFFFF&langs_count=6" height="170" align="left" alt="Programming Languages" />
+[![My Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Serverket?cardType=level&theme=graywhite&preferLogin=false)](https://git.io/awesome-stats-card)
